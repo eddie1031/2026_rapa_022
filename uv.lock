@@ -1892,6 +1892,7 @@ dependencies = [
     { name = "langchain-community" },
     { name = "langchain-core" },
     { name = "langchain-ollama" },
+    { name = "langchain-text-splitters" },
     { name = "matplotlib" },
     { name = "pandas" },
 ]
@@ -1903,6 +1904,7 @@ requires-dist = [
     { name = "langchain-community", specifier = ">=0.4.2" },
     { name = "langchain-core", specifier = ">=1.4.8" },
     { name = "langchain-ollama", specifier = ">=1.1.0" },
+    { name = "langchain-text-splitters", specifier = ">=1.1.2" },
     { name = "matplotlib", specifier = ">=3.11.0" },
     { name = "pandas", specifier = ">=3.0.3" },
 ]

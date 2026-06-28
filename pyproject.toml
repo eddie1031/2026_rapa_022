@@ -8,6 +8,7 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-core>=1.4.8",
     "langchain-ollama>=1.1.0",
+    "langchain-text-splitters>=1.1.2",
     "matplotlib>=3.11.0",
     "pandas>=3.0.3",
 ]
